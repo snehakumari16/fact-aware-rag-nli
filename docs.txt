@@ -1,0 +1,7 @@
+Artificial Intelligence is a branch of computer science.
+
+Machine Learning is a subset of AI.
+
+Natural Language Processing helps computers understand human language.
+
+Large Language Models generate text using deep learning.
