@@ -50,7 +50,6 @@ Hallucination Detection
 Verified Final Response
 
 Folder Structure
-
 fact-aware-rag-nli/
 │
 ├── app.py
